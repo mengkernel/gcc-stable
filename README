@@ -8,7 +8,7 @@ Check latest release [here](https://github.com/Diaz1401/gcc/releases/latest)
 ```
   ==> GCC-GCCVERSION
   ==> Binutils-BINUTILSVERSION
-  ==> Targets: 'arm-eabi', 'aarch64-elf', 'x86_64-elf'
+  ==> Targets: 'aarch64-elf', 'x86_64-elf'
   ==> Stripped binaries
   ==> Highly compressed tar archive with zstd v1.5.5
 ```
