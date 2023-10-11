@@ -6,8 +6,8 @@ Check latest release [here](https://github.com/Diaz1401/gcc-stable/releases/late
 
 # Features
 ```
-  ==> GCC-13.1.1-20230629
-  ==> Binutils-2.40.0
+  ==> GCC-20231005-20231005
+  ==> Binutils-
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
   ==> Compressed tar archive with zstd v1.5.5
