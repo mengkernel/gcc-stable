@@ -6,7 +6,7 @@ Check latest release [here](https://github.com/Diaz1401/gcc-stable/releases/late
 
 # Features
 ```
-  ==> GCC-20231005-20231005
+  ==> GCC-20240314-20240314
   ==> Binutils-
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
