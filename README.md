@@ -1,12 +1,12 @@
 # GitHub Action Build Status
-[![Release GCC Build](https://github.com/Diaz1401/gcc-build/actions/workflows/release-build.yml/badge.svg?branch=main)](https://github.com/Diaz1401/gcc-build/actions/workflows/release-build.yml)
+[![Build Status](https://api.cirrus-ci.com/github/Diaz1401/gcc-build.svg)](https://cirrus-ci.com/Diaz1401/gcc-build)
 
 # Download
 Check latest release [here](https://github.com/Diaz1401/gcc-stable/releases/latest)
 
 # Features
 ```
-  ==> GCC-13.2.1-20240314
+  ==> GCC-13.2.1-20240315
   ==> Binutils-2.42.0
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
