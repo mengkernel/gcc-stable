@@ -1,17 +1,18 @@
-# Cirrus CI Build Status
-[![Build Status](https://api.cirrus-ci.com/github/Diaz1401/gcc-build.svg)](https://cirrus-ci.com/Diaz1401/gcc-build)
+# GitHub Action Build Status
+[![Release GCC Build](https://github.com/mengkernel/gcc-build/actions/workflows/release-build.yml/badge.svg)](https://github.com/mengkernel/gcc-build/actions/workflows/release-build.yml)
 
 # Download
-Check latest release [here](https://github.com/Diaz1401/gcc-stable/releases/latest)
+Check latest release [here](https://github.com/mengkernel/gcc-stable/releases/latest)
 
 # Features
 ```
-  ==> GCC-14-20240623
+  ==> GCC-11.4.1-20240626
   ==> Binutils-2.42.0
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
-  ==> Compressed tar archive with zstd v1.5.5
+  ==> Compiled with LTO + PGO
+  ==> Compressed tar archive with zstd v1.5.6
 ```
 
 # Build script
-Visit https://github.com/Diaz1401/gcc-build
+Visit https://github.com/mengkernel/gcc-build
