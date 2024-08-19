@@ -6,8 +6,8 @@ Check latest release [here](https://github.com/mengkernel/gcc-stable/releases/la
 
 # Features
 ```
-  ==> GCC-11.4.1-20240626
-  ==> Binutils-2.42.0
+  ==> GCC-14.2.1-20240819
+  ==> Binutils-2.43.1
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
   ==> Compiled with LTO + PGO
